@@ -1,8 +1,8 @@
 {% set name = "os-service-types" %}
-{% set version = "1.5.0" %}
+{% set version = "1.6.0" %}
 {% set file_ext = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "7a2da4a61aebe2c1547bea01193aef207e12f845c25e788824dfd400242e9f02" %}
+{% set hash_value = "b7713b21cd27fdd9d5ee6683dac507cb2c5b323decfa78bb0e21b7d3661cb8e2" %}
 
 package:
   name: {{ name|lower }}
